@@ -11,5 +11,5 @@ deb http://archive.ubuntu.com/ubuntu focal-security main restricted
 deb http://archive.ubuntu.com/ubuntu focal-security universe
 deb http://archive.ubuntu.com/ubuntu focal-security multiverse
 EOL
-
+sudo apt update
 echo "Hoàn tất thay thế"
